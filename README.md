@@ -1,3 +1,3 @@
-# rich-thai.github.io
+# Richard Thai Portfolio  
 
-Test
+Hello! Welcome to my portfolio.
