@@ -30,4 +30,5 @@
 
 ## Education
 **PhD Candidate (Experimental Physics)**, York University, GPA: 3.5/4, Sep 2014 – Present (writing thesis)
+
 **Honours Bachelor of Science (Physics)**, York University, GPA: 3.7/4, Sep 2010 – May 2014
