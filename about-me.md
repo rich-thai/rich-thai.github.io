@@ -27,3 +27,7 @@
 **Research Assistant** McMaster University Nuclear Reactor (Hamilton, Canada), Mar 2017 – Aug 2017
 * Performed proof-of-principle experiments to collect data from the nuclear reactor running at low power. Detected thefirst reactor-based antimatter beam in Canada.
 * Analyzed data to optimize the apparatus for permanent installation. Forecasted large number of antimatter generated forthe reactor operating at full power.
+
+## Education
+**PhD Candidate (Experimental Physics)**, York University, GPA: 3.5/4, Sep 2014 – Present (writing thesis)
+**Honours Bachelor of Science (Physics)**, York University, GPA: 3.7/4, Sep 2010 – May 2014
