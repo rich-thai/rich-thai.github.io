@@ -8,3 +8,4 @@ Hello! Welcome to my data analytics porfolio. I'm a physics PhD candidate seekin
 
 ### Restaurant Revenue Prediction
 [Restaurant Revenue Prediction](https://www.kaggle.com/c/restaurant-revenue-prediction) was a Kaggle competition using a dataset provided by TFI, the company behind many fast food restaurants around the world. They provided the revenue, opening date, location, and obfuscated data for 137 restaurant locations, and the task was to predict the revenue for a list of restaurants. In this [notebook](https://github.com/rich-thai/Kaggle-Restaurant-Revenue-Prediction/blob/master/Restaurant.ipynb), I determined that a large fraction of the 37 obfuscated features are correlated and reduced the number of features by principal component analysis (PCA). I then performed a variety of supervised machine learning models to predict the revenue for the test set restaurants.
+ 
