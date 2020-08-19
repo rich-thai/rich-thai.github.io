@@ -9,4 +9,6 @@
 
 **Machine Learning Concepts:** feature selection, feature generation, categorical encoding, pipelines, cross-validation, parameter tuning, regression, SVM, decision trees, random forests, gradient descent, kNN, PCA, clustering, NLP
 
-**Version Control:** Git, GitHubMathematics: calculus, linear algebra, differential equations, probability, statistics, numerical methods
+**Version Control:** Git, GitHub
+
+**Mathematics:** calculus, linear algebra, differential equations, probability, statistics, numerical methods
