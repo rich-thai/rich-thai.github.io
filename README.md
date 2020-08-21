@@ -11,18 +11,3 @@ Hello! Welcome to my data analytics porfolio. I'm a physics PhD candidate seekin
  
 ### Kobe Bryant Shot Selection
 Every shot Kobe Bryant has taken was hosted on [this Kaggle competition](https://www.kaggle.com/c/kobe-bryant-shot-selection). My [notebook](https://github.com/rich-thai/Kobe-Shot-Distribution/blob/master/Kobe-Shot-Prediction.ipynb) explores the types of shots taken, ranks the success rate of each shot, and visualizes the shot distribution. For a set of shot IDs, the shot_made_flag values are removed and the task was to perform supervised machine learning to predict the probability that the shot was a success. 
-
-```html
-<h2>Example of code</h2>
-
-<pre>
-    <div class="container">
-        <div class="block two first">
-            <h2>Your title</h2>
-            <div class="wrap">
-            //Your content
-            </div>
-        </div>
-    </div>
-</pre>
-```
