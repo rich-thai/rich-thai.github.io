@@ -5,7 +5,7 @@ Hello! Welcome to my data analytics porfolio. I'm a physics PhD candidate seekin
 
 
 ### [Bike Share Toronto Project](https://github.com/rich-thai/BikeShareTO)
-This is a project where I scraped real-time GBFS data from Toronto's Open Data library, and recorded the data in a SQLite database. GBFS is a standard for bikeshare information (similar to GTFS for transit data) and contains information such as the station capacity and bike availabilty. I studied the flow of bikes in and out of stations to study the traffic flow, and to see which stations are heavily used and under-utilized.
+This is a project where I scraped real-time GBFS data from Toronto's Open Data library, and recorded the data in a SQLite database. GBFS is a standard for bikeshare information (similar to GTFS for transit data) and contains information such as the station capacity and bike availabilty. I studied the flow of bikes in and out of stations to study the traffic flow, and to see which stations are heavily used and under-utilized. See more details of this project at the link in the title.
 
 ### Bike Sharing Demand
 [Bike Sharing Demand](https://www.kaggle.com/c/bike-sharing-demand/overview) was a Kaggle competition using a dataset provided by Capital Bikeshare. The bike rental data contains two years worth of information such as the date/time of the rental, weather, and seasonality. The task was to predict that demand of bike share rentals for selected hours of the days for multiple dates. I used a supervised machine learning model to predict the rentals, as shown in [this notebook](https://github.com/rich-thai/Bike-Sharing-Demand/blob/master/BikeSharing.ipynb).
