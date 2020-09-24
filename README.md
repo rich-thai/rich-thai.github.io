@@ -1,6 +1,6 @@
 # Richard Thai Portfolio  
 
-Hello! Welcome to my data analytics porfolio. I'm a physics PhD candidate seeking a career in the analytics industry where I can provide actionable insights for real-world business problems. My resume can be found [here](https://rich-thai.github.io/about-me).
+Hello! Welcome to my data analytics porfolio. I'm a physics PhD candidate seeking a career in the analytics industry where I can provide actionable insights for real-world business problems. My resume can be found [here](https://rich-thai.github.io/about-me). Feel free to contact me at richthai92@gmail.com!
 
 
 
