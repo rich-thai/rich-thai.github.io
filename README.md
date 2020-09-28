@@ -15,3 +15,7 @@ This is a project where I scraped real-time GBFS data from Toronto's Open Data l
  
 ### Kobe Bryant Shot Selection
 Every shot Kobe Bryant has taken was hosted on [this Kaggle competition](https://www.kaggle.com/c/kobe-bryant-shot-selection). My [notebook](https://github.com/rich-thai/Kobe-Shot-Distribution/blob/master/Kobe-Shot-Prediction.ipynb) explores the types of shots taken, ranks the success rate of each shot, and visualizes the shot distribution. For a set of shot IDs, the shot_made_flag values are removed and the task was to perform supervised machine learning to predict the probability that the shot was a success. 
+
+
+### NLP Disaster Tweets
+This is based on the Kaggle competition [Real or Not? NLP with Disaster Tweets](https://www.kaggle.com/c/nlp-getting-started/overview). Trained a recurrent neural network to distinguish tweets that corresponded to real natural distasters and false ones. The note book can be found [here](https://github.com/rich-thai/Kaggle-NLP-Disaster-Tweets).
